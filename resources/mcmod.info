@@ -1,0 +1,16 @@
+[
+{
+  "modid": "HarvestCraftWaila",
+  "name": "HarvestCraft Waila Support",
+  "description": "Adds Waila support to HarvestCraft crops and fruits.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["squeek"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

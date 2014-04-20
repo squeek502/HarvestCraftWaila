@@ -1,8 +1,8 @@
 [
 {
   "modid": "HarvestCraftWaila",
-  "name": "HarvestCraft Waila Support",
-  "description": "Adds Waila support to HarvestCraft crops and fruits.",
+  "name": "HarvestCraft Waila Fixes",
+  "description": "An add-on for Pam's HarvestCraft that fixes a few missing names/icons in Waila tooltips",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",

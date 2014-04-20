@@ -1,0 +1,26 @@
+# crops
+tile.Crop.name=Crops
+
+# fruits
+tile.avocado.name=Avocado
+tile.banana.name=Banana
+tile.cherry.name=Cherry
+tile.cinnamon.name=Cinnamon
+tile.coconut.name=Coconut
+tile.dragonfruit.name=Dragonfruit
+tile.lemon.name=Lemon
+tile.lime.name=Lime
+tile.mango.name=Mango
+tile.nutmeg.name=Nutmeg
+tile.olive.name=Olive
+tile.orange.name=Orange
+tile.papaya.name=Papaya
+tile.peach.name=Peach
+tile.pear.name=Pear
+tile.peppercorn.name=Peppercorn
+tile.plum.name=Plum
+tile.pomegranate.name=Pomegranate
+tile.starfruit.name=Starfruit
+tile.vanillabean.name=Vanilla Bean;
+tile.vanilla.name=Vanilla
+tile.walnut.name=Walnut

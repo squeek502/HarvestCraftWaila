@@ -11,7 +11,7 @@ import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 
-@Mod(modid = ModHarvestCraftWaila.MODID, version = ModHarvestCraftWaila.VERSION, dependencies = "required-after:pamharvestcraft")
+@Mod(modid = ModHarvestCraftWaila.MODID, version = ModHarvestCraftWaila.VERSION, dependencies = "required-after:pamharvestcraft;after:HungerOverhaul")
 public class ModHarvestCraftWaila
 {
 	public static final String MODID = "HarvestCraftWaila";

@@ -2,6 +2,7 @@
 tile.Crop.name=Crops
 
 # fruits
+tile.apple.name=Apple
 tile.avocado.name=Avocado
 tile.banana.name=Banana
 tile.cherry.name=Cherry
@@ -24,3 +25,6 @@ tile.starfruit.name=Starfruit
 tile.vanillabean.name=Vanilla Bean;
 tile.vanilla.name=Vanilla
 tile.walnut.name=Walnut
+
+# cutting board
+tile.PamHarvestCraft:cuttingboard.name=Cutting Board

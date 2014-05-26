@@ -15,6 +15,9 @@ public class IconFixer
 	@ForgeSubscribe(priority = EventPriority.NORMAL)
 	public void onPostTextureStitch(TextureStitchEvent.Post event)
 	{
+		if (PamHarvestCraft.pamCrop == null || ((BlockPamCrop) PamHarvestCraft.pamCrop).iconArray == null)
+			return;
+		
 		try
 		{
 			Icon icon = ((BlockPamCrop) PamHarvestCraft.pamCrop).iconArray[0][0];

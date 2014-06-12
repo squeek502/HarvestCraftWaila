@@ -1,0 +1,30 @@
+# crops
+tile.Crop.name=Ростки
+
+# fruits
+tile.apple.name=Яблоко
+tile.avocado.name=Авокадо
+tile.banana.name=Банан
+tile.cherry.name=Вишня
+tile.cinnamon.name=Корица
+tile.coconut.name=Кокос
+tile.dragonfruit.name=Фрукт дракона
+tile.lemon.name=Лемон
+tile.lime.name=Лайм
+tile.mango.name=Манго
+tile.nutmeg.name=Мускатный орех
+tile.olive.name=Маслина
+tile.orange.name=Апельсин
+tile.papaya.name=Папайя
+tile.peach.name=Персик
+tile.pear.name=Груша
+tile.peppercorn.name=Перец
+tile.plum.name=Слива
+tile.pomegranate.name=Гранат
+tile.starfruit.name=Карамбола
+tile.vanillabean.name=Ванильная фасоль
+tile.vanilla.name=Ваниль
+tile.walnut.name=Грецкий орех
+
+# cutting board
+tile.PamHarvestCraft:cuttingboard.name=Разделочная доска

@@ -1,6 +1,7 @@
 package squeek.harvestcraftwaila.fixers;
 
 import java.lang.reflect.Field;
+import squeek.harvestcraftwaila.ModHarvestCraftWaila;
 import net.minecraft.block.Block;
 import assets.pamharvestcraft.BlockPamFruit;
 import assets.pamharvestcraft.PamHarvestCraft;
@@ -22,10 +23,13 @@ public class NameFixer
 	{
 		try
 		{
-			blockFruit_fruit = BlockPamFruit.class.getDeclaredField("fruit");
-			blockFruit_fruit.setAccessible(true);
-
-			fixFruitNames();
+			if (ModHarvestCraftWaila.hasHarvestCraft)
+			{
+				blockFruit_fruit = BlockPamFruit.class.getDeclaredField("fruit");
+				blockFruit_fruit.setAccessible(true);
+	
+				fixFruitNames();
+			}
 		}
 		catch (Exception e)
 		{

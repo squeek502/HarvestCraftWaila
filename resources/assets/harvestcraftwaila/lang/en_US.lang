@@ -28,3 +28,6 @@ tile.walnut.name=Walnut
 
 # cutting board
 tile.PamHarvestCraft:cuttingboard.name=Cutting Board
+
+# flower crops
+tile.flowerCrop.name=Flower Crops

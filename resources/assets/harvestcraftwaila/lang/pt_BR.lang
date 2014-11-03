@@ -1,0 +1,33 @@
+# Culturas
+tile.Crop.name=Culturas
+
+# Frutas
+tile.apple.name=Maçã
+tile.avocado.name=Abacate
+tile.banana.name=Banana
+tile.cherry.name=Acerola
+tile.cinnamon.name=Canela
+tile.coconut.name=Coco
+tile.dragonfruit.name=Pitaia
+tile.lemon.name=Limão
+tile.lime.name=Lima
+tile.mango.name=Manga
+tile.nutmeg.name=Noz-moscada
+tile.olive.name=Oliva
+tile.orange.name=Laranja
+tile.papaya.name=Mamão
+tile.peach.name=Pêssego
+tile.pear.name=Pêra
+tile.peppercorn.name=Pimenta em pó
+tile.plum.name=Ameixa
+tile.pomegranate.name=Romã
+tile.starfruit.name=Carambola
+tile.vanillabean.name=Vagem de baunilha
+tile.vanilla.name=Baunilha
+tile.walnut.name=Noz
+
+# Tábua de corte
+tile.PamHarvestCraft:cuttingboard.name=Tábua de Corte
+
+# Cultura de Flores
+tile.flowerCrop.name=Cultura de Flores
